@@ -1,2 +1,23 @@
 # norby_name_generator
-Name generator to create 4 random alpha characters, a hypen, then 4 random digits. Easily adaptable to another structure.
+
+Create a list of unique names in the following structure: 4 random alpha-characters, 1 hyphen, 4 random digits.
+
+# Command Usage
+
+```
+USAGE: bash name_generator.sh NUMBER
+
+   NUMBER is the amount of names to create.
+
+   Example:
+      bash name_generator.sh 25
+
+   Example for saving to file:
+      bash name_generator.sh 25 > name_list.txt
+
+```
+
+# Versions
+
+Version 0.1 - Initial version with basic functionality to create a list of unique names.
+

@@ -17,6 +17,17 @@ USAGE: bash name_generator.sh NUMBER
 
 ```
 
+# Example Output
+
+```
+steve@jabba:~/$ bash name_generator.sh 5
+BKRQ-3324
+UPPS-2224
+XYJQ-1643
+BARI-7826
+QVRT-4304
+```
+
 # Versions
 
 Version 0.1 - Initial version with basic functionality to create a list of unique names.
